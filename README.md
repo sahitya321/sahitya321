@@ -1,5 +1,6 @@
 this is my first repository. 
-- 👋 Hi, I’m @sahitya321
+- 👋 Hi, I’m Sahitya Verma.
+- 🎓 I am a BCA Graduate.
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning python with data science. 
 - 💞️ I’m looking to collaborate on who can help me.
